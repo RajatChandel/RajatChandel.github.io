@@ -1,0 +1,16 @@
+:root {
+	font-size:18px;
+}
+
+.container{
+	
+display:flex;
+margin:5vw;
+flex-direction: column;
+
+}
+
+.banner{
+	
+	background
+}
